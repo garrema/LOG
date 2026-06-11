@@ -1,4 +1,4 @@
-# LOG
+# log-monitoring-system
 Project
 # Real-Time Log Monitoring & Anomaly Detection System
 
